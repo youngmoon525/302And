@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-ZXFXFXFXFX
-ZC
-BBB
-HKJDFHKJDFHKJFDHKJD
+
 A
-=======
 B
->>>>>>> human2
-=======
 A
->>>>>>> 1edce77f5c80930ebf3eb2d18d0f4771d99586b7
+B
