@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ZXFXFXFXFX
 ZC
 BBB
 HKJDFHKJDFHKJFDHKJD
 A
+=======
+B
+>>>>>>> human2
